@@ -78,16 +78,16 @@ administration, and B2B marketplaces for the West African market.
 <div align="center">
 
 <a href="https://github.com/bamba9928/HORUS-DIGITAL-ASSURANCES">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamba9928&repo=HORUS-DIGITAL-ASSURANCES&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Horus Digital Assurances" />
+  <img src="https://github-readme-stats-horus-global-service.vercel.app/api/pin/?username=bamba9928&repo=HORUS-DIGITAL-ASSURANCES&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Horus Digital Assurances" />
 </a>
 <a href="https://github.com/bamba9928/horus-insurance-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamba9928&repo=horus-insurance-manager&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Horus Insurance Manager" />
+  <img src="https://github-readme-stats-horus-global-service.vercel.app/api/pin/?username=bamba9928&repo=horus-insurance-manager&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Horus Insurance Manager" />
 </a>
 <a href="https://github.com/bamba9928/gestion_immobiliere">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamba9928&repo=gestion_immobiliere&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="MADA IMMO" />
+  <img src="https://github-readme-stats-horus-global-service.vercel.app/api/pin/?username=bamba9928&repo=gestion_immobiliere&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="MADA IMMO" />
 </a>
 <a href="https://github.com/bamba9928/translingopro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bamba9928&repo=translingopro&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="TransLingo Pro" />
+  <img src="https://github-readme-stats-horus-global-service.vercel.app/api/pin/?username=bamba9928&repo=translingopro&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="TransLingo Pro" />
 </a>
 
 </div>
@@ -107,8 +107,8 @@ administration, and B2B marketplaces for the West African market.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bamba9928&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bamba9928&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats-horus-global-service.vercel.app/api?username=bamba9928&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats-horus-global-service.vercel.app/api/top-langs/?username=bamba9928&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bamba9928&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 
