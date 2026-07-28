@@ -110,7 +110,7 @@ administration, and B2B marketplaces for the West African market.
 <img height="165" src="https://github-readme-stats-horus-global-service.vercel.app/api?username=bamba9928&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&include_all_commits=true" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats-horus-global-service.vercel.app/api/top-langs/?username=bamba9928&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bamba9928&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com/?user=bamba9928&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Contribution streak" />
 
 </div>
 
