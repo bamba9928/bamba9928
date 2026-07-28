@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Bamba%20Dieng&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Django%20REST%20%C2%B7%20Next.js%20%C2%B7%20Rust%20%C2%B7%20Cybersecurity&descAlignY=55&descSize=18" alt="Bamba Dieng — Full-Stack Engineer, Django REST, Next.js, Rust, Cybersecurity" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Bamba%20Dieng&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Python%20%C2%B7%20Next.js%20%C2%B7%20Rust%20%C2%B7%20Cybersecurity&descAlignY=55&descSize=18" alt="Bamba Dieng — Full-Stack Engineer, Python, Next.js, Rust, Cybersecurity" />
 
 <p>
   <a href="https://www.linkedin.com/in/horusglobalservices/"><img src="https://img.shields.io/badge/LinkedIn-Horus_Global_Service-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
