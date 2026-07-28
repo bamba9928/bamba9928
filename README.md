@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Bamba%20Dieng&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Engineer%20%7C%20Django%20REST%20%C2%B7%20Next.js%20%C2%B7%20PostgreSQL&descAlignY=55&descSize=18" alt="Bamba Dieng — Full-Stack Engineer" />
 
 <p>
-  <a href="https://www.linkedin.com/in/horusglobalservices/"><img src="https://img.shields.io/badge/LinkedIn-Horus_Global_Services-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/horusglobalservices/"><img src="https://img.shields.io/badge/LinkedIn-Horus_Global_Service-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://horuservices.cloud/"><img src="https://img.shields.io/badge/Website-horuservices.cloud-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://twitter.com/horuservices"><img src="https://img.shields.io/badge/X-@horuservices-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <img src="https://img.shields.io/badge/Senegal-🇸🇳-00853F?style=for-the-badge" alt="Senegal" />
@@ -18,12 +18,13 @@
 ## 👋 About me
 
 I'm a **full-stack engineer** based in **Senegal**, building production web platforms at
-**[Horus Global Services](https://horuservices.cloud/)** — insurance management, real-estate
+**[Horus Global Service](https://horuservices.cloud/)** — insurance management, real-estate
 administration, and B2B marketplaces for the West African market.
 
 - 🏗️ I design **modular Django + DRF backends** with clean domain boundaries, OpenAPI docs, and Docker-first environments.
-- ⚛️ I ship **TypeScript / React / Next.js** frontends — and reach for **HTMX** when a full SPA is overkill.
-- 🔐 I care about **auth done right**: JWT sessions, RBAC, granular permissions, OWASP Top 10.
+- ⚛️ I ship **JavaScript / TypeScript / React / Next.js** frontends — and reach for **HTMX** when a full SPA is overkill.
+- 🦀 I use **Rust** for performance-critical tooling and systems-level work.
+- 🛡️ **Cybersecurity** runs through everything I build: OWASP Top 10, JWT sessions, RBAC, granular permissions, and system-audit tooling.
 - 🌍 I work in **French and English**, with a focus on digitizing insurance and services businesses.
 
 > Currently focused on **Horus Digital Assurances** — a full insurance-management platform (policies, claims, commissions, reporting).
@@ -39,9 +40,11 @@ administration, and B2B marketplaces for the West African market.
 ![DRF](https://img.shields.io/badge/Django_REST-A30000?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 **Frontend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -57,10 +60,14 @@ administration, and B2B marketplaces for the West African market.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Security & quality**
+**Cybersecurity & quality**
 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-B31B1B?style=flat-square&logo=hackthebox&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-5C2D91?style=flat-square&logo=keycdn&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
@@ -91,7 +98,7 @@ administration, and B2B marketplaces for the West African market.
 | **[Horus Insurance Manager](https://github.com/bamba9928/horus-insurance-manager)** | Broker back-office for portfolio and renewal tracking | TypeScript · React |
 | **[MADA IMMO](https://github.com/bamba9928/gestion_immobiliere)** | Property management — tenants, rents, receipts, occupancy dashboard | Django · PostgreSQL |
 | **[TransLingo Pro](https://github.com/bamba9928/translingopro)** | Translation & interpretation services platform | Django · HTMX |
-| **[Horus Global Services](https://github.com/bamba9928/horusglobalservices)** | Corporate platform with API integrations and custom automation | Django · HTMX |
+| **[Horus Global Service](https://github.com/bamba9928/horusglobalservices)** | Corporate platform with API integrations and custom automation | Django · HTMX |
 | **[symlinkAttack](https://github.com/bamba9928/symlinkAttack)** | System-audit scripts for Windows & Linux — educational security research | Python |
 
 ---
