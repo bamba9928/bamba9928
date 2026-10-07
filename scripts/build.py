@@ -215,7 +215,7 @@ def font_face(key: str, chars: set[str]) -> str:
     opts.layout_features = ["kern", "liga", "calt", "tnum"]
     opts.name_IDs = [1, 2]
     opts.notdef_outline = True
-    tt = TTFont(FONT_DIR / f"{key}.woff2")
+    tt = TTFont(FONT_DIR / f"{key}.woff2", recalcTimestamp=False)  # keep output byte-stable between runs
     sub = subset.Subsetter(opts)
     sub.populate(text="".join(sorted(chars | {" "})))
     sub.subset(tt)
