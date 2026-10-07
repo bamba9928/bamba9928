@@ -49,7 +49,6 @@ I'm Bamba, a full-stack engineer based in Dakar and the founder of **[Horus Glob
 
 - [**TransLingo Pro**](https://github.com/bamba9928/translingopro): website of a Dakar interpreter and translator (EN · FR · Wolof), live at [translingopro.com](https://www.translingopro.com/).
 - [**Horus Global Service**](https://github.com/bamba9928/horusglobalservices): my company website, built on Django 6.
-- [**Horus Assurances**](https://github.com/bamba9928/horus-assurances): multi-tenant insurance API (Django REST + JWT) where each partner group only sees its own data.
 - [**symlinkAttack**](https://github.com/bamba9928/symlinkAttack): system-audit scripts for Windows and Linux, for security research.
 
 <br>
